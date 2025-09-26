@@ -1,12 +1,12 @@
 {
-  "token": "",
-  "clientId": "1418366088160215150",
-  "guildId": "1416868806592040973",
-  "thumbnail": "https://cdn.discordapp.com/attachments/1416869215503122584/1421187489841807521/Screenshot_2025-09-26_192858.png?ex=68d81f7d&is=68d6cdfd&hm=68a45ac30daa876d0aa35eff9d604b95a0fea3ee5d2f3e5171f83f622b48d7af",
-  "image": "https://cdn.discordapp.com/attachments/1416869215503122584/1421187489841807521/Screenshot_2025-09-26_192858.png?ex=68d81f7d&is=68d6cdfd&hm=68a45ac30daa876d0aa35eff9d604b95a0fea3ee5d2f3e5171f83f622b48d7af",
-  "loginLogChannel": "1416868807838011434",
-  "vacationLogChannel": "1416870730108371084",
-  "leaveAdminLogChannel": "1416869215503122584",
-  "thumbnails": "https://cdn.discordapp.com/attachments/1418367647665491969/1421195372310691951/RobloxScreenShot20250826_185133018.png?ex=68d826d5&is=68d6d555&hm=83b7891a1ed14a8587f492a7c92b2cc3ce29bd365e502bebf906ecb009b9f6e0",
-  "images": "https://cdn.discordapp.com/attachments/1418367647665491969/1421195372310691951/RobloxScreenShot20250826_185133018.png?ex=68d826d5&is=68d6d555&hm=83b7891a1ed14a8587f492a7c92b2cc3ce29bd365e502bebf906ecb009b9f6e0"
+  "token": "Token Bot ",
+  "clientId": "Id bot  ",
+  "guildId": "Id Server",
+  "thumbnail": "thumbnail Link Login ",
+  "image": "Imange Link Login ",
+  "loginLogChannel": "Id Login Log ",
+  "vacationLogChannel": "ID vacationLog",
+  "leaveAdminLogChannel": "ID leaveAdminLog",
+  "thumbnails": "thumbnail Linkvacation",
+  "images": "Imange Link vacation"
 }
