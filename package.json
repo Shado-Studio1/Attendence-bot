@@ -1,5 +1,5 @@
 {
-  "name": "help-bot",
+  "name": "discord Login bot",
   "version": "1.0.0",
   "description": "bot for help server",
   "main": "index.js",
