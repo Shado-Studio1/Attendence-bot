@@ -1,0 +1,19 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "clientId": "YOUR_CLIENT_ID_HERE",
+  "guildId": "YOUR_GUILD_ID_HERE",
+  "ownerId": "YOUR_OWNER_ID_HERE",
+  "thumbnail": "YOUR_THUMBNAIL_URL_HERE",
+  "image": "YOUR_IMAGE_URL_HERE",
+  "loginLogChannel": "LOGIN_LOG_CHANNEL_ID",
+  "vacationLogChannel": "VACATION_LOG_CHANNEL_ID",
+  "leaveAdminLogChannel": "LEAVE_ADMIN_LOG_CHANNEL_ID",
+  "thumbnails": "YOUR_THUMBNAIL_URL_HERE",
+  "images": "YOUR_IMAGE_URL_HERE",
+  "setDescription": "**مرحبًا بك في نظام تسجيل الدخول والخروج! استخدم الأزرار أدناه لتسجيل دخولك أو خروجك، أو للإبلاغ عن إجازة.**",
+  "botActivity": "BOT_ACTIVITY_NAME",
+  "rewardSettings": {
+    "roleId": "REWARD_ROLE_ID",
+    "hoursRequired": 0
+  }
+}
